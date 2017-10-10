@@ -1,0 +1,7 @@
+C:\Users\atahj\source\repos\DesignPatternAssignment4\DesignPatternAssignment4\bin\Debug\DesignPatternAssignment4.exe.config
+C:\Users\atahj\source\repos\DesignPatternAssignment4\DesignPatternAssignment4\bin\Debug\DesignPatternAssignment4.exe
+C:\Users\atahj\source\repos\DesignPatternAssignment4\DesignPatternAssignment4\bin\Debug\DesignPatternAssignment4.pdb
+C:\Users\atahj\source\repos\DesignPatternAssignment4\DesignPatternAssignment4\obj\Debug\DesignPatternAssignment4.csprojResolveAssemblyReference.cache
+C:\Users\atahj\source\repos\DesignPatternAssignment4\DesignPatternAssignment4\obj\Debug\DesignPatternAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\atahj\source\repos\DesignPatternAssignment4\DesignPatternAssignment4\obj\Debug\DesignPatternAssignment4.exe
+C:\Users\atahj\source\repos\DesignPatternAssignment4\DesignPatternAssignment4\obj\Debug\DesignPatternAssignment4.pdb
